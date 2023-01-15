@@ -28,8 +28,8 @@ void toplama(string& number1,string& number2){
 }
 
 int main() {
-    string sayi1 = "1"; 
-    string sayi2 = "0"; 
+    string sayi1 = "50000000000"; 
+    string sayi2 = "20000000000"; 
     toplama(sayi1, sayi2);
     return 0;
 }
